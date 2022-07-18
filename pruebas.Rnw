@@ -3,7 +3,9 @@
 \begin{document}
 \SweaveOpts{concordance=TRUE}
 
+
 estoy en la rama de pruebas1 yo no quiero conflicto
+
 
 
 \end{document}
